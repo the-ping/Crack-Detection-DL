@@ -1,2 +1,5 @@
 # Crack-Detection-DL
-real-time recognition of cracks on concrete, using open sourced Tensorflow Objection Detection API.
+- keywords: #real-time, #recognition, #cracks, #TensorflowObjectionDetectionAPI, #ComputerVision, #DeepLearning, #JetsonNano
+- Summer 2019 SMART project with NTU and NUS engineering students.
+- project overview: 
+    + 
