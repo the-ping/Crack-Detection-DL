@@ -4,6 +4,8 @@
 - project overview: 
     + inputtt
     
+- **mention forked repo from tony, and link it in**
+    
 ------------------------------------------------------------------------------------------------------------------------------------------
 ## <Background>
 - Tensorflow Object Detection API: an open source framework that is built on top of Tensorflow, to construct/train/deploy object detection models.
