@@ -7,8 +7,8 @@
 - **mention forked repo from tony, and link it in**
     
 ------------------------------------------------------------------------------------------------------------------------------------------
-## <Background>
-- Tensorflow Object Detection API: an open source framework that is built on top of Tensorflow, to construct/train/deploy object detection models.
+## <Custom trained objection detection model>
+- What is Tensorflow Object Detection API?: an open source framework that is built on top of Tensorflow, to construct/train/deploy object detection models.
 
 - How to train my own custom object detection model using Tensorflow Object Detection API
     - outline: 
