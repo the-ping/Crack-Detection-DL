@@ -15,18 +15,18 @@
     - source: https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/
     - steps overview: 
     ```
-        1) annotate images
-        2) prepare `tfrecord` files 
+        1. annotate images
+        2. prepare `tfrecord` files 
             -which each holds an image and its corresponding annotation
-        3) configure a training pipeline
+        3. configure a training pipeline
             -instead of training model from scratch, apply transfer learning from a pre-trained model
-        4) train the model
+        4. train the model
             -takes less time if we use Google Colab's free GPU (by the Jupyter Notebook from DLology website) because laptop's GPU isn't strong enough
-        5) export the trained model
-        
-   ```
+        5. export the trained model
+    ```    
+   
 
 After completing the steps above, you should have 3 files downloaded to your local PC:
-    1) frozen_inference_graph.pb (executes to inferencing of new inputs)
-    2) label_map.pbtxt (maps the object class name to an integer)
-    3) ssd_mobilenet_v2_coco.config (the configured training pipeline)
+    1. frozen_inference_graph.pb (executes to inferencing of new inputs)
+    2. label_map.pbtxt (maps the object class name to an integer)
+    3. ssd_mobilenet_v2_coco.config (the configured training pipeline)
