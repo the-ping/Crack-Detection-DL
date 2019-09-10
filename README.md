@@ -27,7 +27,7 @@
    
 ```
 After completing the steps above, you should have 3 files downloaded to your local PC
-    - frozen_inference_graph.pb (executes to inferencing of new inputs)
-    - label_map.pbtxt (maps the object class name to an integer)
-    - ssd_mobilenet_v2_coco.config (the configured training pipeline)
+    1. frozen_inference_graph.pb (executes to inferencing of new inputs)
+    2. label_map.pbtxt (maps the object class name to an integer)
+    3. ssd_mobilenet_v2_coco.config (the configured training pipeline)
 ```
