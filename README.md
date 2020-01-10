@@ -1,10 +1,10 @@
 # Live-Crack-Detection-using-JetsonNano
-- Summer 2019 SMART project with NTU and NUS engineering students.
+- Summer 2019 SMRT project with NTU and NUS engineering students. (project proposal link ref: https://docs.google.com/presentation/d/1YAa_tffII_fIUdK7QxtHg4VfHRmDeVpNaP1xnDjmRvM/edit#slide=id.g5508887eb5_0_95)
 - keywords: #real-time, #recognition, #cracks, #TensorflowObjectionDetectionAPI, #ComputerVision, #DeepLearning, #JetsonNano
 - project overview: 
-    + inputtt
+    Deploying a robotcar to detect location of cracks in tunnel tracks.  
     
-- **mention forked repo from tony, and link it in**
+- forked repo: https://github.com/Tony607/object_detection_demo.git
     
 ------------------------------------------------------------------------------------------------------------------------------------------
 ## <Custom trained objection detection model>
