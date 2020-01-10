@@ -11,7 +11,6 @@
 - What is Tensorflow Object Detection API?: an open source framework that is built on top of Tensorflow, to construct/train/deploy object detection models.
 
 - How to train my own custom object detection model using Tensorflow Object Detection API
-    - outline: 
     - source: https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/
     - steps overview: 
     
